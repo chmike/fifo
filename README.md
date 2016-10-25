@@ -1,6 +1,7 @@
 # fifo
 
-Fifo queue go package implemented as growable circular buffer
+Fifo queue go package implemented as growable circular buffer.
+This is the equivalent of the deque data structure found in the C++ STL.
 
 ## General properties 
 
